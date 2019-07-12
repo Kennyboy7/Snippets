@@ -1,0 +1,2 @@
+# Snippets
+Functions.php snippets
